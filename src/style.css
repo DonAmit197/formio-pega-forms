@@ -102,10 +102,10 @@ button:focus-visible {
   align-items: center;
 }
 
-/*.tabulator-row.paste-table-row-selected .tabulator-cell.tabulator-row-header {
+.tabulator-row.paste-table-row-selected .tabulator-cell.tabulator-row-header {
   background-color: #3876ca;
   color: #fff;
 }
 .tabulator-row.paste-table-row-selected .tabulator-cell {
   background-color: #9abcea;
-}*/
+}
