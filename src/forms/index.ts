@@ -4,7 +4,7 @@ import singlePage from './singlePage.json';
 import liquidationStatement from './liquidation_statement.json';
 import multiPageJSON from './multipage-JSON.json';
 import csvToUI from './csvtoui-formio.json';
-import pasteTable from './Paste Table_v1.01_20260410181116.json';
+import pasteTable from './Paste Table_v2.01_20260522160758.json';
 
 export type FormDefinition = {
   id: string;
